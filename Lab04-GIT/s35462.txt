@@ -1,2 +1,3 @@
-Name: {Lukasz Abramczyk}
+Name: Lukasz Abramczyk
 University: PJATK
+Student id: s35462
